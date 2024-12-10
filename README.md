@@ -2,6 +2,8 @@
 
 This repository contains the analysis and insights for entering the smart lock market, leveraging data-driven methodologies. It includes scripts for data collection, analysis, and visualization, as well as the final report summarizing actionable recommendations.
 
+**Note:** All analyses reflect the market status at the time of data collection. Product listings, prices, and ratings are subject to change over time.
+
 ## **Project Overview**
 Smart locks are an essential part of the growing smart home ecosystem. This project focuses on analyzing the smart lock market using data from Flipkart to provide insights into brand performance, pricing trends, and customer preferences.
 
