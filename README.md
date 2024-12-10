@@ -17,7 +17,7 @@ Smart locks are an essential part of the growing smart home ecosystem. This proj
 │── smart_lock.db            # SQLite database containing collected data
 │── processed_data.csv       # Processed data used for Analysis
 │── scraper.ipynb            # Web scraping notebook for Flipkart smart lock listings
-│──database.ipynb            # Notebook demonstrating the creation and loading of data into the SQLite database
+│── database.ipynb           # Notebook demonstrating the creation and loading of data into the SQLite database
 │── Analysis.ipynb           # Notebook for performing data analysis
 ├── Report.pdf               # Final comprehensive market analysis report
 ├── README.md                # Project documentation (this file)
