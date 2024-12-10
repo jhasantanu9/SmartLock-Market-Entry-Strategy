@@ -35,17 +35,6 @@ Smart locks are an essential part of the growing smart home ecosystem. This proj
 - SQLite3
 - Required Python libraries (see `requirements.txt`)
 
-### **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-lock-market-analysis.git
-   cd smart-lock-market-analysis
-   ```
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## **Usage**
@@ -53,23 +42,17 @@ Smart locks are an essential part of the growing smart home ecosystem. This proj
 ### **Data Collection**
 To scrape data from Flipkart:
 ```bash
-python scripts/scrape_flipkart.py
-```
-
-### **Data Cleaning**
-Clean and preprocess the scraped data:
-```bash
-python scripts/data_cleaning.py
+scraper.ipynb
 ```
 
 ### **Analysis and Visualization**
 Perform data analysis and generate visualizations:
 ```bash
-python scripts/analysis.py
+Analysis.ipynb
 ```
 
 ### **Report**
-The final report summarizing the insights and recommendations can be found in the `report` folder.
+The final report summarizing the insights and recommendations can be found in the `Report.pdf`.
 
 ---
 
